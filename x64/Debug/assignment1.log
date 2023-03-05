@@ -1,0 +1,17 @@
+﻿  assignment1.cpp
+D:\LOGIC\assignment1\assignment1.cpp(188,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(206,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(228,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(311,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(317,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(324,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(345,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(352,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(359,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(370,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(376,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(383,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(407,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(429,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LOGIC\assignment1\assignment1.cpp(459,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  assignment1.vcxproj -> D:\LOGIC\assignment1\x64\Debug\assignment1.exe
